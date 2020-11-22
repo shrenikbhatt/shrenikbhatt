@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on any projects that seem fun and cool!
+- 🌱 I’m currently learning more about ML, AI, Computer Architecture and Parallel Processing
 <!--
 **shrenikbhatt/shrenikbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
